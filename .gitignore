@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.deepeval_telemetry.txt
+.DS_Store
+**/.deepeval/*
+
+# Virtual environments
+.venv
+uv.lock
+multi-agent-conversational-system-env
+
+# Secrets
+*.secrets
+*.secrets_*
+
+
+# Logs
+*.log
+
+# documents
+*.jsonl
+*.htm

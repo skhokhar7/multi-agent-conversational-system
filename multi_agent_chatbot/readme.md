@@ -48,7 +48,4 @@ The features of this chatbot include:
 
 ## Example Run
 
-![Chatbot](multi_agent_chatbot/image/readme/screenshot.png)
-
-
-
+![Chatbot](image/readme/screenshot.png)
