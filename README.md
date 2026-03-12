@@ -44,7 +44,7 @@ The features of this chatbot include:
 * cd '/path/to/multi-agent-conversational-system'
 * python -m multi_agent_chatbot.app
 * Or running start-app.sh script
-* Once the appis up and running, go to 'http://http://127.0.0.1:7860/' in a browser of your choice.
+* Once the appis up and running, go to 'http://127.0.0.1:7860/' in a browser of your choice.
 
 ## Example Run
 
